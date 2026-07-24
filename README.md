@@ -64,20 +64,20 @@ A Streamlit mood-based chatbot UI.
 streamlit run chatmodels/UIchatbot.py
 ```
 
-### 4. `CineSage/core.py`
+### 4. `ZaivExtractor/core.py`
 
 A Hugging Face endpoint example that runs a simple chat prompt.
 
 ```powershell
-python CineSage/core.py
+python ZaivExtractor/core.py
 ```
 
-### 5. `CineSage/UICore.py`
+### 5. `ZaivExtractor/UICore.py`
 
 A Streamlit app that extracts structured movie data from text.
 
 ```powershell
-streamlit run CineSage/UICore.py
+streamlit run ZaivExtractor/UICore.py
 ```
 
 ### 6. `embeddingmodels/embeddings.py`
